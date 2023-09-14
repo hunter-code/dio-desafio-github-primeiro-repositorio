@@ -1,0 +1,73 @@
+INTRODUÇÃO AO GIT
+
+Entendendo o que é Git e sua importância  13:31
+
+
+=======================================================================
+
+NAVEGAÇÃO VIA COMMAND LINE ITRERFACE E INSTALAÇÃO
+
+
+Comandos básicos para um bom desempenho no terminal 18:50
+
+
+
+Realizando a instalação do GIT  12:28
+
+
+======================================================================
+
+INTENDENDO COMO O GIT FUNCIONA POR DEBAIXO DOS PANOS
+
+
+Tópicos fundamentais para entender o funcionamento do Git  09:56
+
+
+Objetos internos do Git  14:36
+
+
+Chave SSH e Token 28:00
+
+========================================================================
+
+PRIMEIROS COMANDOS COM O GIT 
+
+Iniciando o Git e criando um commit 19:30
+
+
+=========================================================================
+
+CICLO DE VIDA NOS ARQUIVOS NO GIT
+
+Passo a passo no ciclo de vida  24:08
+
+
+
+============================================================================
+
+INTRODUÇÃO AO GITHUB
+
+
+Trabalhando com o GitHub  19:36
+
+
+====================================================================================
+
+RESOLVENDO OS CONFLITOS
+
+Como os conflitos acontecem no GitHub e como resolvê-los 19:22
+
+
+Certifique seu conhecimento -> Nota (100)
+
+
+
+
+
+
+
+
+
+
+
+
